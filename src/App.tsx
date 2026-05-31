@@ -15,12 +15,12 @@ import {
 const DEFAULT_MEMORIES: MemoryCard[] = [
   {
     id: 'mem_1',
-    title: 'The Café We Met At',
-    date: '2024-08-25',
-    description: 'We sat at that wooden high-table near the window. The rain was drumming soft rhythms on the glass, and you laughed when you accidentally smudged cocoa powder on your nose. I knew from that very afternoon you were going to be my favorite person.',
-    category: 'first_meeting',
-    imageUrl: 'https://i.ibb.co/R44T2KBt/IMG-1304.jpg',
-    location: 'Mocha Dream Café'
+    title: 'Our 1st movie date',
+    date: '2025-12-28',
+    description: 'We watched a movie for the first time together cute cute cute , we were not yet dating .',
+    category: 'first_movie',
+    imageUrl: 'https://i.ibb.co/b5Jst9T5/Full-Size-Render.jpg',
+    location: 'Aster'
   },
   {
     id: 'mem_2',
