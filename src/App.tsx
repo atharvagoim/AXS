@@ -114,14 +114,14 @@ const DEFAULT_MEMORIES: MemoryCard[] = [
 const DEFAULT_SONGS: Song[] = [
   {
     id: 'song_1',
-    title: 'Perfect',
-    artist: 'Ed Sheeran',
+    title: 'Mrignaini',
+    artist: 'karun',
     reason: 'This plays in my head every time you walk into a room wearing that beautiful oversized beige knit sweater. It fits us perfectly.',
-    spotifyUrl: 'https://open.spotify.com/track/1m6L92hD6W6pAnxRzWeY8Q',
-    youtubeUrl: 'https://www.youtube.com/watch?v=2Vv-BfVoq4g',
+    spotifyUrl: 'https://open.spotify.com/track/1nZ2O25UgnTFcPz3QrEDwX?si=65e170a361044230',
+    youtubeUrl: 'https://youtu.be/Ald44cGPou4?si=9XGyF73IAd_NaAgV',
     mood: 'Sweet',
     isFavorite: true,
-    imageUrl: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&q=80&w=400'
+    imageUrl: 'https://i.ytimg.com/vi/Ald44cGPou4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDYCAMyDu-2nkfMpWthmqgyANjXCw'
   },
   {
     id: 'song_2',
