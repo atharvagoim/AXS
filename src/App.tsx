@@ -302,7 +302,6 @@ export default function App() {
                 {partnerNames}
               </h1>
               <p className="text-maroon-700 font-sans font-bold text-xs uppercase tracking-widest mt-1 flex items-center justify-center md:justify-start gap-2">
-                <span>✦ ESTABLISHED</span>
                 <span className="bg-black text-white px-2.5 py-0.5 rounded-none text-[10px] font-mono font-bold">
                   {new Date(anniversaryDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
                 </span>
