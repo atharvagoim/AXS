@@ -81,9 +81,33 @@ const DEFAULT_MEMORIES: MemoryCard[] = [
     id: 'mem_9',
     title: 'GYM Date',
     date: '2026-03-21',
-    description: 'Our first bike ride to Marines vapis karenge chalooo, had alot of deep talksss.',
+    description: 'Our first bike ride to Marines vapis karenge chalooo, had alot of deep Conversations.',
     imageUrl: 'https://i.ibb.co/mrwvYXnc/A98-F7-FCA-8-B29-4-E20-90-A5-C2-BC7-F110-B45.jpg',
     location: 'Marine Drive'
+  },
+      {
+    id: 'mem_10',
+    title: 'Concert',
+    date: '2026-03-22',
+    description: 'Our first Concert togther it was a stealll for the money we Paid.',
+    imageUrl: 'https://i.ibb.co/r2hzpw7m/IMG-4691.jpg',
+    location: 'Nesco Grounds'
+  },
+        {
+    id: 'mem_11',
+    title: 'Movie Time',
+    date: '2026-04-24',
+    description: 'OHH first time we went for a movie uk what happened haha.',
+    imageUrl: 'https://i.ibb.co/BHfVVbN9/IMG-5283.jpg',
+    location: 'INOX Marines'
+  },
+          {
+    id: 'mem_12',
+    title: 'Ramen Date',
+    date: '2026-05-13',
+    description: 'We ate Ramen ICECREAMM and it was so so gooddddd',
+    imageUrl: 'https://i.ibb.co/9mc0QrYy/E1-D3691-E-DE0-C-41-C8-AC99-B6-F9-A5-A68346.jpg',
+    location: 'BARAKO'
   },
 ];
 
