@@ -23,48 +23,43 @@ const DEFAULT_MEMORIES: MemoryCard[] = [
   },
   {
     id: 'mem_2',
-    title: 'City Skyline Under Stars',
-    date: '2024-09-10',
-    description: 'Our first official date night. We bought those sweet strawberry skewers, strolled along the water canal, and talked about literally everything—from our favorite cartoon dogs to our biggest silly fears, completely losing track of the cold subway schedules.',
-    category: 'first_date',
-    imageUrl: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=800',
-    location: 'Riverside Walk'
+    title: 'When i asked you out.',
+    date: '2026-01-01',
+    description: 'A very special day, we were officially together.',
+    imageUrl: 'https://i.ibb.co/nVf7fJf/IMG-1304.jpg',
+    location: 'Janta Bar'
   },
   {
     id: 'mem_3',
-    title: 'Catching Coastal Sunsets',
-    date: '2024-11-05',
-    description: 'Standing hand in hand on the warm sand, watching the horizon dissolve into absolute pink, purple and gold. The ocean breeze blew through your hair and you whispered how happy you were. That sound is forever engraved in my heart.',
-    category: 'trip',
-    imageUrl: 'https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&q=80&w=800',
-    location: 'Emerald Beach Coast'
+    title: 'Roaming Free',
+    date: '2026-01-01',
+    description: 'We were so fuckinggg happyy boyfriend girlfriend yeyyy',
+    imageUrl: 'https://i.ibb.co/wr7yZm97/4e9a956b-4504-47e4-bdc2-66c6b58eab65.jpg',
+    location: 'Bandstand'
   },
   {
     id: 'mem_4',
     title: 'The Rain Walk Escape',
-    date: '2025-01-15',
-    description: 'Stuck without an umbrella under a tiny dry ledge, we finally decided to just run for it. Completely drenched from head to toe, laughing our hearts out under the flickering amber street lamps. Best night ever.',
-    category: 'sweet_moment',
-    imageUrl: 'https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?auto=format&fit=crop&q=80&w=800',
-    location: 'Downtown Boulevard'
+    date: '2026-01-15',
+    description: 'We missed each other so much during manali, But we had such a good time together.',
+    imageUrl: 'https://i.ibb.co/LD4X1C9x/Full-Size-Render.jpg',
+    location: 'Mokai'
   },
   {
     id: 'mem_5',
-    title: 'First Anniversary Candlelight Dinner',
-    date: '2025-08-25',
-    description: 'One full year of amazing days. We celebrated with a gorgeous corner-table dinner, delicious pasta, and exchanging handwritten letters that we vowed to keep lock-and-key forever.',
-    category: 'milestone',
-    imageUrl: 'https://images.unsplash.com/photo-1507504038482-76210f64c501?auto=format&fit=crop&q=80&w=800',
-    location: 'The Velvet Room Bistro'
+    title: 'Valentine',
+    date: '2026-02-14',
+    description: 'Our first Valentine, also we had a pretty rough time we made it through SO PROUD OF US',
+    imageUrl: 'https://i.ibb.co/W47nM49j/CD2580-A0-1-E10-466-E-867-B-DF346-E19-FEFC.jpg',
+    location: 'Versova'
   },
   {
     id: 'mem_6',
-    title: 'Warm Matcha & Retro Records',
-    date: '2025-10-18',
-    description: 'A cozy Sunday spent flipping through dusty retro synth records in a cellar catalog, followed by drinking the creamies warm matcha lattes. Simple, quiet, and absolutely beautiful with you.',
-    category: 'sweet_moment',
-    imageUrl: 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&q=80&w=800',
-    location: 'Vintage Vinyl Ground'
+    title: 'Arcade Date',
+    date: '2026-02-19',
+    description: 'We had alot of fun loved seeing you and win games and my heart both',
+    imageUrl: 'https://i.ibb.co/dJ6X80tv/IMG-3868.jpg',
+    location: 'Utopia City Parel'
   }
 ];
 
