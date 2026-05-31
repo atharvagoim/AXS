@@ -18,7 +18,6 @@ const DEFAULT_MEMORIES: MemoryCard[] = [
     title: 'Our 1st movie date',
     date: '2025-12-28',
     description: 'We watched a movie for the first time together cute cute cute , we were not yet dating .',
-    category: 'first_movie',
     imageUrl: 'https://i.ibb.co/b5Jst9T5/Full-Size-Render.jpg',
     location: 'Aster'
   },
