@@ -19,7 +19,7 @@ const DEFAULT_MEMORIES: MemoryCard[] = [
     date: '2024-08-25',
     description: 'We sat at that wooden high-table near the window. The rain was drumming soft rhythms on the glass, and you laughed when you accidentally smudged cocoa powder on your nose. I knew from that very afternoon you were going to be my favorite person.',
     category: 'first_meeting',
-    imageUrl: 'https://images.unsplash.com/photo-1517164850305-99a3e65bb47e?auto=format&fit=crop&q=80&w=800',
+    imageUrl: 'https://ibb.co/vWKHxPF',
     location: 'Mocha Dream Café'
   },
   {
