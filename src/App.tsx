@@ -39,7 +39,7 @@ const DEFAULT_MEMORIES: MemoryCard[] = [
   },
   {
     id: 'mem_4',
-    title: 'The Rain Walk Escape',
+    title: 'Our First dATE',
     date: '2026-01-15',
     description: 'We missed each other so much during manali, But we had such a good time together.',
     imageUrl: 'https://i.ibb.co/LD4X1C9x/Full-Size-Render.jpg',
@@ -60,7 +60,31 @@ const DEFAULT_MEMORIES: MemoryCard[] = [
     description: 'We had alot of fun loved seeing you and win games and my heart both',
     imageUrl: 'https://i.ibb.co/dJ6X80tv/IMG-3868.jpg',
     location: 'Utopia City Parel'
-  }
+  },
+    {
+    id: 'mem_7',
+    title: 'Shawrma Date',
+    date: '2026-02-26',
+    description: 'We went out twining and ATEE SHAWARMA',
+    imageUrl: 'https://i.ibb.co/DP1Bn4FR/IMG-3964.jpg',
+    location: 'Miya kebabs'
+  },
+  {
+    id: 'mem_8',
+    title: 'GYM Date',
+    date: '2026-03-20',
+    description: 'We worked out together for the First time we were so tired but def FUNN.',
+    imageUrl: 'https://i.ibb.co/NgyFGFWK/Full-Size-Render.jpg',
+    location: 'Creed Culture'
+  },
+    {
+    id: 'mem_9',
+    title: 'GYM Date',
+    date: '2026-03-21',
+    description: 'Our first bike ride to Marines vapis karenge chalooo, had alot of deep talksss.',
+    imageUrl: 'https://i.ibb.co/mrwvYXnc/A98-F7-FCA-8-B29-4-E20-90-A5-C2-BC7-F110-B45.jpg',
+    location: 'Marine Drive'
+  },
 ];
 
 const DEFAULT_SONGS: Song[] = [
