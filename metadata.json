@@ -1,0 +1,6 @@
+{
+  "name": "Our Story & Playlist",
+  "description": "An interactive love capsule for couples to showcase memories, log milestone stories, curating special songs with personal reasons, and generating romantic digital notes together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
