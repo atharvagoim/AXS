@@ -153,7 +153,7 @@ export default function App() {
   // Edit the anniversary date, names, memories, and songs directly here or in 
   // the configuration arrays above! Everything changes live in the preview.
   // =========================================================================
-  const anniversaryDate = '2025-01-01'; // Your Anniversary Date (YYYY-MM-DD)
+  const anniversaryDate = '2026-01-01'; // Your Anniversary Date (YYYY-MM-DD)
   const partnerNames = 'atharva X sanya'; // Your Names
 
   const memories = DEFAULT_MEMORIES; // Edit Scrapbook Memories in the array at the top of this file!
